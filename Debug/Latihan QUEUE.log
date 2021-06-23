@@ -1,0 +1,4 @@
+﻿  QUEUE.cpp
+D:\kuliah\Semester 2\STRUKTUR DATA\LATIHAN\QUEUE\QUEUE\Latihan QUEUE\QUEUE.cpp(79,65): warning C4129: '.': unrecognized character escape sequence
+D:\kuliah\Semester 2\STRUKTUR DATA\LATIHAN\QUEUE\QUEUE\Latihan QUEUE\QUEUE.cpp(99,14): warning C4101: 'element': unreferenced local variable
+  Latihan QUEUE.vcxproj -> D:\kuliah\Semester 2\STRUKTUR DATA\LATIHAN\QUEUE\QUEUE\Debug\Latihan QUEUE.exe
